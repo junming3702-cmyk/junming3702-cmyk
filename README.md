@@ -29,7 +29,9 @@ A research prototype that connects procurement-document review to traceable evid
 
 ## How I contribute
 
-I assist with program architecture design, review and accept outputs, refine and optimize the program, and develop evaluation plans. AI tools assist code implementation and experimental table preparation. Expert participants support effectiveness checks and inform evaluation design through interviews.
+I independently conceived, designed and developed the construction-tendering pre-review project. I defined its objectives and full architecture, designed the legal-authority RAG hierarchy and ordered L1–L4 retrieval with BM25 + dense search, and developed the reasoning workflow and deterministic release gates. I also designed the evaluation plan, reviewed outputs and refined the program.
+
+AI tools assisted code implementation and experimental table preparation under my direction. Domain practitioners appraised outputs and contributed interview feedback to evaluation design. [Explore my design contributions and the implementation](https://github.com/junming3702-cmyk/-LLM#my-contribution-and-collaboration).
 
 ## Research direction
 
