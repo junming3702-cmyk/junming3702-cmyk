@@ -2,6 +2,8 @@
 
 **AI product prototyping · Decision support · Industry digitalization**
 
+**[Visit my personal website](https://junming3702-cmyk.github.io/)** · [PhD research interests](https://junming3702-cmyk.github.io/#research) · [Featured project](https://junming3702-cmyk.github.io/#project)
+
 I focus on turning industry problems into testable AI tools. My interests connect rapid product development with human–AI collaboration: making evidence easy to inspect, keeping uncertainty visible, and supporting professional decisions.
 
 I am exploring **AI product and applied AI solution roles**, alongside **PhD opportunities** in AI-enabled industry digitalization and decision support.
