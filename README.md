@@ -8,7 +8,7 @@ I am exploring **AI product and applied AI solution roles**, alongside **PhD opp
 
 ## Featured project
 
-### [Evidence-Grounded AI for Construction Procurement](https://github.com/junming3702-cmyk/-LLM)
+### [Evidence-grounded AI for construction tendering](https://github.com/junming3702-cmyk/-LLM)
 
 A research prototype that connects procurement-document review to traceable evidence, deterministic checks and human judgment.
 
